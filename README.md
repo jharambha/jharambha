@@ -1,4 +1,4 @@
-![1456](https://user-images.githubusercontent.com/97498357/234072185-c3b73c51-62f8-4eda-be73-338cd6e8a849.gif)
+.........................................................................![9795](https://user-images.githubusercontent.com/97498357/234089426-cf1ff1e2-e842-45e0-9218-f7f7cec9a146.gif).........................................................................
 <h1 align="center">Hi 👋, I'm Rambha Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
