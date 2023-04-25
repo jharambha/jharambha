@@ -1,5 +1,5 @@
 ................................................................![9795](https://user-images.githubusercontent.com/97498357/234089426-cf1ff1e2-e842-45e0-9218-f7f7cec9a146.gif)..........................................
-<h1 align="center">Hi 👋, I'm Rambha Jha</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" /> I'm Rambha Jha</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jharambha&label=Profile%20views&color=0e75b6&style=flat" alt="jharambha" /> </p>
