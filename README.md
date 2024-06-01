@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Nextjs and Mongodb**
 
-- 👯 I’m looking to collaborate on **Community website project.**
-
 - 👨‍💻 All of my projects are available at [soon.](soon.)
 
 - 💬 Ask me about **Reactjs.**
@@ -69,10 +67,5 @@
 <div align="left">
   
 <div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+           
 <br />
