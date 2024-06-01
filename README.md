@@ -4,13 +4,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jharambha&label=Profile%20views&color=0e75b6&style=flat" alt="jharambha" /> </p>
 
-- 🔭 I’m currently working on **Personal Portfolio.**
+- 🔭 I’m currently working on **Personal Portfolio And DSA.**
 
-- 🌱 I’m currently learning **Nextjs and Mongodb**
-
-- 👨‍💻 All of my projects are available at [soon.](soon.)
-
-- 💬 Ask me about **Reactjs.**
+- 🌱 I’m currently learning **PHP and MySql**
 
 ## Connect with me:
 <p align="center">
